@@ -5,4 +5,7 @@ so so pritty world on program code
 **полужирный**
 * список
 * интерсно и удобно
-people = shit
+
+1. first element on number list
+
+2. two element
