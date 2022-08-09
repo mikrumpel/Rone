@@ -5,7 +5,16 @@ markdowm.md
 ## Выделение текста
 
 ## Списки
+1. epic skills
+2. funny armor
+3. strange card and spiritual dager
 
+# RPG характеристики
+
+* сила
+* ловкость
+* живучесть
+* выносливость
 ## Рабата с изображениями
 
 ## Ссылки
