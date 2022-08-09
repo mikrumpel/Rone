@@ -63,7 +63,7 @@ iii
 **выделение полужирным**
 
 ## Списки
-<<<<<<< HEAD
+
 Работа со списками в markdown
 1. есть варианты упорядоченый или нейпорядоченый
 2. знаки + - *
@@ -80,11 +80,11 @@ iii
 + red
 + green
 + blue
-=======
+
 1. epic skills
 2. funny armor
 3. strange card and spiritual dager
->>>>>>> list
+
 
 # RPG характеристики
 
