@@ -1,3 +1,5 @@
 so so pritty world on program code
-save
+
+*save* курсив в mark down
+
 people = shit
