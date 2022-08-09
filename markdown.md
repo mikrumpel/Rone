@@ -43,6 +43,12 @@ git branch (просмотр веток) //звездочка указывает
 
 clear (команда очистки терминала)
 
+task list
+
+- [x] marked
+- [ ] unmarked
+
+
 
 # markdown иснструкция
 
