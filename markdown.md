@@ -23,7 +23,7 @@ iii
 
 вот так
 
-![]()
+![image](gitimage.jpg)
 
 ## Ссылки
 
