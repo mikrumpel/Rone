@@ -183,6 +183,18 @@ task list?
 - [ ] unmarked
 
 
+git clone //после мы вставляем ссылку с удаленного репозитория
+cd // имя папки (смена директории, переход по папкам, Tab - дописывает название)
+
+отправить свой репозиторий на git hub
+git remote add origin http://github.com/ (удаленный репозиторий и указываем ссылку) (origin это название репозитория)
+git branch -M main
+git push -u origin main (отправка данных в репозиторий)
+
+git remote add origin https://github.com/mikrumpel/Rone.git
+git branch -M main
+git push -u origin main
+
 
 # markdown иснструкция
 
